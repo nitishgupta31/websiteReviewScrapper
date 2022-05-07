@@ -22,7 +22,7 @@
 Eg :
 https://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=640254&CatId=3839 `
 
-#### Important Notes
+#### Notes
 
-- Test your work manually using Postman or HTTPie.
+- Test work manually using Postman or HTTPie.
 
